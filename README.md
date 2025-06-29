@@ -22,4 +22,6 @@ A CRUD application built using Spring Boot, PostgreSQL, and Thymeleaf.
 4. Run: `./mvnw spring-boot:run`
 
 ## Screenshots
-
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
